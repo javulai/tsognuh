@@ -1,2 +1,0 @@
-# tsognuh
-tsmo
